@@ -37,8 +37,8 @@ while(1)
     }
  
     // log("\n"); // echo
-    uart(chr(13)); // CR
-    uart(chr(10)); // LF
+    uart(13); // CR
+    uart(10); // LF
   }
   else if(d!=0)
   {
