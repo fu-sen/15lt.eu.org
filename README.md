@@ -12,6 +12,11 @@ IchigoLatte 向けの MixJuice コンテンツは他に公開されていない�
 1 文字違う別のコンテンツ [15j**a**.ml](https://github.com/fu-sen/15ja.ml) が存在します。
 
 ## 使い方
+
+**MixJuice 1.2.2 以降 または MicJack で使用可能です。**\
+MixJuice 1.2.1 以前では参照できません。\
+MixJuice を使用している場合は最新バージョンに更新して下さい。
+
 lash より次のコマンドを入れます。（以後 lash> は入力不要です）
 
 ```
