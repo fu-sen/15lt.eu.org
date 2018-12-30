@@ -13,8 +13,9 @@ IchigoLatte 向けの MixJuice コンテンツは他に公開されていない�
 
 ## 使い方
 
-**MixJuice 1.2.2 以降 または MicJack で使用可能です。**\
-MixJuice 1.2.1 以前では参照できません。\
+**15jr.ml の GETS は MixJuice 1.2.2 以降 または MicJack で使用可能です。**\
+MixJuice 1.2.1 以前では GET に変更して参照できますが、\
+イチゴジャム レシピ MixJuice コンテンツは MixJuice 1.2.2 以降・MicJack 必須ですので\
 MixJuice を使用している場合は最新バージョンに更新して下さい。
 
 lash より次のコマンドを入れます。（以後 lash> は入力不要です）
