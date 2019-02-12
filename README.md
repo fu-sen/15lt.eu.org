@@ -13,33 +13,30 @@ IchigoLatte 向けの MixJuice コンテンツは他に公開されていない�
 
 ## 使い方
 
-**15jr.ml の GETS は MixJuice 1.2.2 以降 または MicJack で使用可能です。**\
-MixJuice 1.2.1 以前では GET に変更して参照できますが、\
-イチゴジャム レシピ MixJuice コンテンツは MixJuice 1.2.2 以降・MicJack 必須ですので\
-MixJuice を使用している場合は最新バージョンに更新して下さい。
-
 lash より次のコマンドを入れます。（以後 lash> は入力不要です）
 
 ```
-lash>echo MJ GETS 15jr.ml/> uart;cat uart
+lash>echo MJ GET 15jr.ml/> uart;cat uart
 ```
+
+GET の代わりに **GETS** も使用可能です。（MixJuice 1.2.2 以降・MicJack）
 
 15jr.ml は入っているプログラム一覧は次で表示できます。
 
 ```
-lash>echo MJ GETS 15jr.ml/program> uart;cat uart
+lash>echo MJ GET 15jr.ml/program> uart;cat uart
 ```
 
 プログラムは次のコマンドでダウンロードします。
 
 ```
-lash>echo MJ GETS 15jr.ml/プログラム> uart;cat uart > .
+lash>echo MJ GET 15jr.ml/プログラム> uart;cat uart > .
 ```
 
 IchigoLatte のコマンド表示は次で表示します。
 
 ```
-lash>echo MJ GETS 15jr.ml/コマンド> uart;cat uart
+lash>echo MJ GET 15jr.ml/コマンド> uart;cat uart
 ```
 
 ## IchigoLatte 向け MixJuice コンテンツ製作の注意
