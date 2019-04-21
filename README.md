@@ -4,11 +4,32 @@ ___
 お知らせ(2019/04/19・2019/04/21 更新)\
 現在ドメイン 15jr.ml が freenom より参照停止されています。\
 対応していますが、復旧できても数日要すると思われますので、\
-ijmj.eu.org で代わりに運用中です。
+ijmj.eu.org/l/ で代わりに運用中です。
+
+トップページ:
 
 ```
-?"MJ GET(S) ijmj.eu.org/l/
+lash>echo MJ GET ijmj.eu.org/l/> uart;cat uart
 ```
+
+プログラム一覧:
+
+```
+lash>echo MJ GET ijmj.eu.org/l/program> uart;cat uart
+```
+
+プログラムダウンロード:
+
+```
+lash>echo MJ GET ijmj.eu.org/l/プログラム> uart;cat uart > .
+```
+
+コマンド表示
+
+```
+lash>echo MJ GETijmj.eu.org/l/コマンド> uart;cat uart
+```
+
 
 ___
 
