@@ -1,0 +1,10 @@
+cls
+
+BEGIN
+ 31 rnd
+ DUP 23 lc 0 .
+ 100 sleep
+ 0 scroll
+ 23 lc 1 .
+REPEAT
+

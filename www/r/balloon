@@ -1,0 +1,11 @@
+cls
+
+while 1
+ x=rnd 31
+ lc x,23
+ print chr 232
+ msleep 1000
+ lc x,23
+ print "1"
+end
+
