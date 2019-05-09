@@ -4,7 +4,8 @@ while 1
  x=rnd 31
  lc x,23
  print chr 232
- msleep 1000
+ scroll 0
+ msleep 100
  lc x,23
  print "1"
 end
