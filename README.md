@@ -16,7 +16,7 @@ IchigoLatte 向けの MixJuice コンテンツは他に公開されていない�
 lash より次のコマンドを入れます。（以後 lash> は入力不要です）
 
 ```
-lash>echo MJ GET m15.lt/> uart;cat uart  (JavaScript)
+lash>echo MJ GET m15.lt/> uart;cat uart   (JavaScript)
 lash>echo MJ GET m15.lt/r/> uart;cat uart (Ruby)
 lash>echo MJ GET m15.lt/f/> uart;cat uart (Forth)
 ```
@@ -38,7 +38,7 @@ lash>echo MJ GET m15.lt/pprogram> uart;cat uart
 プログラムは次のコマンドでダウンロードします。
 
 ```
-lash>echo MJ GET m15.lt/プログラム> uart;cat uart > . (JavaScript)
+lash>echo MJ GET m15.lt/プログラム> uart;cat uart > .   (JavaScript)
 lash>echo MJ GET m15.lt/r/プログラム> uart;cat uart > . (Ruby)
 lash>echo MJ GET m15.lt/f/プログラム> uart;cat uart > . (Forth)
 ```
