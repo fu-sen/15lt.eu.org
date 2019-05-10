@@ -14,3 +14,4 @@ while 1
  end
  print chr c
 end
+
