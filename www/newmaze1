@@ -67,10 +67,10 @@ y=2;
 
 while(1)
 {
- var a=0;
+ a=0;
  while(a<5)
  {
-  var b=0;
+  b=0;
   while(b<5)
   {
    d=scr(x+b-2,y+a-2);
