@@ -1,0 +1,155 @@
+//PanCake New Maze 2 - 1acreen
+
+var x=1,y=1,a,b,c,d,e,k;
+
+uart(10);
+
+var i=0;
+video(1);
+uart(128,4,5,0);
+
+cls();
+uart(128,4,0,0);
+
+while(x<30)
+{
+ lc(x,1);
+ log(chr(0x8f));
+ lc(x,21);
+ log(chr(0x8f));
+ x=x+1;
+}
+
+while(y<22)
+{
+ lc(1,y);
+ log(chr(0x8f));
+ lc(29,y);
+ log(chr(0x8f));
+ y=y+1;
+}
+
+x=3;
+while(x<28)
+{
+ y=3;
+ while(y<20)
+ {
+  lc(x,y);
+  log(chr(0x8f));
+
+  c=rnd(3);
+  a=x-(c==0)+(c==1);
+  b=y-(c==2)+(c==3);
+
+  lc(a,b);
+  log(chr(0x8f));
+
+  y=y+2;
+ }
+ x=x+2;
+}
+
+lc(2,2);
+log(chr(83));
+
+lc(28,20);
+log(chr(242));
+
+while(inkey()==0)
+{
+}
+video(0);
+uart(128,4,5,1);
+
+x=2;
+y=2;
+
+while(1)
+{
+ var a=0;
+ while(a<5)
+ {
+  var b=0;
+  while(b<5)
+  {
+   d=scr(x+b-2,y+a-2);
+
+   if(d==0x8f)
+   {
+    e=0x5d;
+   }
+   else
+   {
+    e=0x64;
+   }
+   uart(128,6,20,
+        20+b*8,2+a*8,e);
+
+   if(d==83)
+   {
+    uart(128,6,20,
+         20+b*8,2+a*8,0x92);
+   }
+
+   if(d==242)
+   {
+    uart(128,6,20,
+         20+b*8,2+a*8,0x49);
+   }
+
+   if((a==2)*(b==2))
+   {
+    uart(128,6,20,
+         20+b*8,2+a*8,0x07);
+   }
+ 
+   b=b+1;
+  }
+  a=a+1;
+ }
+
+ c=scr(x,y);
+
+ lc(x,y);
+ log(chr(249));
+
+ if((x==28)*(y==20))
+ {
+  break;
+ }
+
+ a=x;
+ b=y;
+
+ while((a==x)*(b==y))
+ {
+  k=inkey();
+  a=x-(k==28)+(k==29);
+  b=y-(k==30)+(k==31);
+  if(scr(a,b)==0x8f)
+  {
+   a=x;
+   b=y;
+  }
+
+  if(k==32)
+  {
+    i=1-i;
+    video(i);
+    uart(128,4,5,1-i);
+  }
+ }
+
+ lc(x,y);
+ log(chr(c));
+
+ x=a;
+ y=b;
+}
+
+video(1);
+uart(128,4,5,0);
+
+lc(0,23);
+
