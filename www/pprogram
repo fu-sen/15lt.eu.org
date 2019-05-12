@@ -2,7 +2,7 @@
   ﾌﾟﾛｸﾞﾗﾑ ｲﾁﾗﾝ
   lash>echo MJ GET(S) m15.lt/ﾌﾟﾛｸﾞﾗﾑ> uart;cat uart > .
 
- ﾌﾟﾛｸﾞﾗﾑ =        ()=PC/IL ver.
+ ﾌﾟﾛｸﾞﾗﾑ =     ()=ver. PC /IL 
 [bground  ] ﾊｲｹｲ ﾋｮｳｼﾞ(0.8/0.7)
 [balloonp ] ﾌｳｾﾝ      (0.8/0.7)
 [changepl ] PC-IL ｷﾘｶｴ(0.8/0.7)
@@ -10,8 +10,8 @@
 [colorst1 ] ｲﾛ STAMP1 (0.8/0.7)
 [ilchrrnd ] Latteｷｬﾗｸﾀ(0.8/1.0)
 [pongfu   ] PONG ﾌｳ   (1.0/0.7)
-[newmaze1 ] Newﾒｲﾛ2 1s(1.1/0.7)
-[newmaze2 ] Newﾒｲﾛ2 2s(1.1/0.7)
+[newmaze1 ] Newﾒｲﾛ2 1s(1.1/0.9)
+[newmaze2 ] Newﾒｲﾛ2 2s(1.1/0.9)
 [sprite   ] ｽﾌﾟﾗｲﾄ    (0.8/0.7)
 
 
