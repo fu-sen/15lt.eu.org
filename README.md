@@ -13,15 +13,14 @@ IchigoLatte 向けの MixJuice コンテンツは他に公開されていない�
 
 ## 使い方
 
-lash より次のコマンドを入れます。（以後 lash> は入力不要です）
+lash より次のコマンドを入れます。（以後 lash> は入力不要です）\
+GET の代わりに GETS も使用可能です。
 
 ```
 lash>echo MJ GET m15.lt/> uart;cat uart   (JavaScript)
 lash>echo MJ GET m15.lt/r/> uart;cat uart (Ruby)
 lash>echo MJ GET m15.lt/f/> uart;cat uart (Forth)
 ```
-
-GET の代わりに **GETS** も使用可能です。
 
 JavaScript では、m15.lt に入っているプログラム一覧を次で表示できます。\
 
