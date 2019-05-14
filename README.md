@@ -22,7 +22,7 @@ lash>echo MJ GET m15.lt/r/> uart;cat uart (Ruby)
 lash>echo MJ GET m15.lt/f/> uart;cat uart (Forth)
 ```
 
-JavaScript では、m15.lt に入っているプログラム一覧を次で表示できます。\
+JavaScript では、m15.lt に入っているプログラム一覧を次で表示できます。
 
 ```
 lash>echo MJ GET m15.lt/program> uart;cat uart
