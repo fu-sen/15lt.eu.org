@@ -64,4 +64,4 @@ Ruby・Forth は現在開発途中で変化する可能性があるため、\
 **IchigoLatte** http://ichigolatte.shizentai.jp/ \
 **MixJuice** http://mixjuice.shizentai.jp/
 
-**イチゴジャム レシピ** https://15jamrecipe.jimdo.com/
+**イチゴジャム レシピ** https://15jamrecipe.jimdofree.com/
