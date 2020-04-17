@@ -1,16 +1,16 @@
- ｲﾁｺﾞｼﾞｬﾑ ﾚｼﾋﾟ
+� ���޼ެ� ڼ��
   IchigoLatte Ruby
-               + MixJuice ｺﾝﾃﾝﾂ
+               + MixJuice �����
 
-[ﾌﾟﾛｸﾞﾗﾑ]
-ﾀﾞｳﾝﾛｰﾄﾞ
- lash>echo MJ GET(S) m15.lt/r/ﾌﾟﾛｸﾞﾗﾑ> uart;cat uart > .
+[��۸���]
+�޳�۰��
+ lash>echo MJ GET(S) m15.lt/r/��۸���> uart;cat uart > .
 
- ﾌﾟﾛｸﾞﾗﾑ =
-[balloon  ] ﾌｳｾﾝ
-[chrcode  ] ｷｬﾗｸﾀｰ ｲﾁﾗﾝ
-[chrcode16] ｷｬﾗｸﾀｰ ｲﾁﾗﾝ 16ｼﾝｽｳ
-[chrcode20] ｷｬﾗｸﾀｰ ｲﾁﾗﾝ 10ｼﾝｽｳ
-[random   ] ﾗﾝﾀﾞﾑ ｶﾞﾒﾝ
+ ��۸��� =
+[balloon  ] ̳��
+[chrcode  ] ��׸�� ����
+[chrcode16] ��׸�� ���� 16�ݽ�
+[chrcode20] ��׸�� ���� 10�ݽ�
+[random   ] ����� ����
 
 
