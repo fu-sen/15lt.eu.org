@@ -65,3 +65,5 @@ Ruby・Forth は現在開発途中で変化する可能性があるため、\
 **MixJuice** http://mixjuice.shizentai.jp/
 
 **イチゴジャム レシピ** https://15jamrecipe.jimdofree.com/
+
+Powered by さくらのレンタルサーバ https://www.sakura.ne.jp/
