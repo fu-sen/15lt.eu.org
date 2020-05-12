@@ -4,7 +4,7 @@
 
 [ÌßÛ¸Þ×Ñ]
 ÀÞ³ÝÛ°ÄÞ
- lash>echo MJ GET(S) m15.lt/r/ÌßÛ¸Þ×Ñ> uart;cat uart > .
+ lash>echo MJ GET m15.lt/r/ÌßÛ¸Þ×Ñ> uart;cat uart > .
 
  ÌßÛ¸Þ×Ñ =
 [balloon  ] Ì³¾Ý

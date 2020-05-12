@@ -4,7 +4,7 @@
 
 [ÌßÛ¸Þ×Ñ]
 ÀÞ³ÝÛ°ÄÞ
- lash>echo MJ GET(S) m15.lt/f/ÌßÛ¸Þ×Ñ> uart;cat uart > .
+ lash>echo MJ GET m15.lt/f/ÌßÛ¸Þ×Ñ> uart;cat uart > .
 
  ÌßÛ¸Þ×Ñ =  ()=Latte FORTH ver.
 [balloon] Ì³¾Ý (0.4.0D~)
