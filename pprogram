@@ -1,18 +1,18 @@
-ï£³ PanCake+Latte JavaScript
-  ï¾Œï¾Ÿï¾›ï½¸ï¾ï¾—ï¾‘ ï½²ï¾ï¾—ï¾
-  lash>echo MJ GET(S) m15.lt/ï¾Œï¾Ÿï¾›ï½¸ï¾ï¾—ï¾‘> uart;cat uart > .
+ÿ PanCake+Latte JavaScript
+  ÌßÛ¸Ş×Ñ ²Á×İ
+  lash>echo MJ GET m15.lt/ÌßÛ¸Ş×Ñ> uart;cat uart > .
 
- ï¾Œï¾Ÿï¾›ï½¸ï¾ï¾—ï¾‘ =     ()=ver. PC /IL 
-[bground  ] ï¾Šï½²ï½¹ï½² ï¾‹ï½®ï½³ï½¼ï¾(0.8/0.7)
-[balloonp ] ï¾Œï½³ï½¾ï¾      (0.8/0.7)
-[changepl ] PC-IL ï½·ï¾˜ï½¶ï½´(0.8/0.7)
-[color    ] ï½²ï¾› ï½²ï¾ï¾—ï¾   (0.8/0.7)
-[colorst1 ] ï½²ï¾› STAMP1 (0.8/0.7)
-[ilchrrnd ] Latteï½·ï½¬ï¾—ï½¸ï¾€(0.8/1.0)
-[pongfu   ] PONG ï¾Œï½³   (1.0/0.7)
-[newmaze1 ] Newï¾’ï½²ï¾›2 1s(1.1/0.9)
-[newmaze2 ] Newï¾’ï½²ï¾›2 2s(1.1/0.9)
-[sinecurve] ï½»ï½²ï¾ ï½¶ï½°ï¾Œï¾  (0.8/0.9)
-[sprite   ] ï½½ï¾Œï¾Ÿï¾—ï½²ï¾„    (0.8/0.7)
+ ÌßÛ¸Ş×Ñ =     ()=ver. PC /IL 
+[bground  ] Ê²¹² Ë®³¼Ş(0.8/0.7)
+[balloonp ] Ì³¾İ      (0.8/0.7)
+[changepl ] PC-IL ·Ø¶´(0.8/0.7)
+[color    ] ²Û ²Á×İ   (0.8/0.7)
+[colorst1 ] ²Û STAMP1 (0.8/0.7)
+[ilchrrnd ] Latte·¬×¸À(0.8/1.0)
+[pongfu   ] PONG Ì³   (1.0/0.7)
+[newmaze1 ] NewÒ²Û2 1s(1.1/0.9)
+[newmaze2 ] NewÒ²Û2 2s(1.1/0.9)
+[sinecurve] »²İ ¶°ÌŞ  (0.8/0.9)
+[sprite   ] ½Ìß×²Ä    (0.8/0.7)
 
 
