@@ -9,7 +9,7 @@ IchigoLatte 向けの MixJuice コンテンツは他に公開されていない�
 ソースを公開する事で製作を促します。
 
 2019年5月2日より m15.lt で公開しています。\
-2019年5月8日より IchigoLatte Ruby・IchigoLatte Forth にも対応しています。
+2019年5月8日より IchigoLatte Ruby・IchigoLatte FORTH にも対応しています。
 
 ## 使い方
 
@@ -19,7 +19,7 @@ GET の代わりに GETS も使用可能です。（GETS は MixJuice 1.2.2 以�
 ```
 lash>echo MJ GET m15.lt/> uart;cat uart   (JavaScript)
 lash>echo MJ GET m15.lt/r/> uart;cat uart (Ruby)
-lash>echo MJ GET m15.lt/f/> uart;cat uart (Forth)
+lash>echo MJ GET m15.lt/f/> uart;cat uart (FORTH)
 ```
 
 JavaScript では、m15.lt に入っているプログラム一覧を次で表示できます。
@@ -39,7 +39,7 @@ lash>echo MJ GET m15.lt/pprogram> uart;cat uart
 ```
 lash>echo MJ GET m15.lt/プログラム> uart;cat uart > .   (JavaScript)
 lash>echo MJ GET m15.lt/r/プログラム> uart;cat uart > . (Ruby)
-lash>echo MJ GET m15.lt/f/プログラム> uart;cat uart > . (Forth)
+lash>echo MJ GET m15.lt/f/プログラム> uart;cat uart > . (FORTH)
 ```
 
 IchigoLatte JavaScript のコマンド表示は次で表示します。
