@@ -49,7 +49,7 @@ lash>echo MJ GET m15.lt/コマンド> uart;cat uart
 ```
 
 コマンド表示は現在 JavaScript のみです。\
-Ruby・Forth は現在開発途中で変化する可能性があるため、\
+Ruby・FORTH は現在開発途中で変化する可能性があるため、\
 仕様・機能が整った頃に対応する予定でいます。
 
 ## IchigoLatte 向け MixJuice コンテンツ製作の注意
