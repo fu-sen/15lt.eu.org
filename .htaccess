@@ -4,8 +4,8 @@ ErrorDocument 404 /404
 RewriteEngine On
 RewriteBase /
 
-RewriteCond %{HTTP_USER_AGENT} !(MixJuice) [NC]
-RewriteRule ^(.*)$ https://github.com/fu-sen/m15.lt [R=301,L]
+RewriteCond %{HTTP_USER_AGENT} !MixJuice [NC]
+RewriteRule ^.*$ https://github.com/fu-sen/m15.lt [R=301,L]
 
 RewriteRule [A-Z] - [E=HASCAPS:TRUE,S=1]
 RewriteRule ![A-Z] - [S=28]
