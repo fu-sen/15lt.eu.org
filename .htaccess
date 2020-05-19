@@ -4,7 +4,7 @@ ErrorDocument 404 /404
 RewriteEngine On
 RewriteBase /
 
-RewriteCond %{HTTP_HOST} sakura.ne.jp
+RewriteCond %{HTTP_HOST} !m15.lt
 RewriteRule .* - [R=404,L]
 
 RewriteCond %{HTTP_USER_AGENT} !MixJuice [NC]
