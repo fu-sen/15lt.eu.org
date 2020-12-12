@@ -52,6 +52,18 @@ lash>echo MJ GET m15.lt/コマンド> uart;cat uart
 Ruby・FORTH は現在開発途中で変化する可能性があるため、\
 仕様・機能が整った頃に対応する予定でいます。
 
+## Kidspod; ダウンロード
+
+2020年12月12日より、Kidspod; のダウンロードに対応しました。
+
+```
+lash>echo MJ GET m15.lt/ID> uart;cat uart > .
+```
+
+`ID` はプログラム表示で記載されている\
+ `MixJuice GET URL : kidspod.club/mj/ID` となっている数字を入力します。\
+プログラムダウンロード完了後は lash に戻ります。
+
 ## IchigoLatte 向け MixJuice コンテンツ製作の注意
 
 - IchigoJam BASIC 向けとは異なり、コマンドの引き継ぎ（転送）を行えません。URL は短いものが良いです。
@@ -63,6 +75,7 @@ Ruby・FORTH は現在開発途中で変化する可能性があるため、\
 
 **IchigoLatte** http://ichigolatte.shizentai.jp/ \
 **MixJuice** http://mixjuice.shizentai.jp/
+**Kidspod;** http://kidspod.club/
 
 **イチゴジャム レシピ** https://15jamrecipe.jimdofree.com/
 

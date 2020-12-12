@@ -9,6 +9,8 @@ PanCake+IchigoLatte ²Á×Ý
  lash>echo MJ GET m15.lt/pprogram> uart;cat uart
 ÀÞ³ÝÛ°ÄÞ
  lash>echo MJ GET m15.lt/ÌßÛ¸Þ×Ñ> uart;cat uart > .
+Kidspod; ÀÞ³ÝÛ°ÄÞ
+ lash>echo MJ GET m15.lt/ID> uart;cat uart > .
 
 [ºÏÝÄÞ]
  lash>echo MJ GET m15.lt/ºÏÝÄÞ> uart;cat uart

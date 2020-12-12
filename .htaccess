@@ -7,6 +7,8 @@ RewriteBase /
 RewriteCond %{HTTP_HOST} !m15.lt
 RewriteRule .* - [R=404,L]
 
+RewriteRule [0-9]+ kidspod.php [L]
+
 RewriteRule [A-Z] - [E=HASCAPS:TRUE,S=1]
 RewriteRule ![A-Z] - [S=28]
 RewriteRule ^([^A]*)A(.*)$ $1a$2
