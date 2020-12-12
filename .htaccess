@@ -1,5 +1,5 @@
 DirectoryIndex index
-ErrorDocument 404 /404
+ErrorDocument 404 /notfound
 
 RewriteEngine On
 RewriteBase /
