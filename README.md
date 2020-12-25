@@ -74,7 +74,7 @@ lash>echo MJ GET m15.lt/ID> uart;cat uart > .
 ## 関連リンク
 
 **IchigoLatte** http://ichigolatte.shizentai.jp/ \
-**MixJuice** http://mixjuice.shizentai.jp/
+**MixJuice** http://mixjuice.shizentai.jp/ \
 **Kidspod;** http://kidspod.club/
 
 **イチゴジャム レシピ** https://15jamrecipe.jimdofree.com/
