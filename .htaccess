@@ -7,6 +7,9 @@ RewriteBase /
 RewriteCond %{HTTP_HOST} !m15.lt
 RewriteRule .* - [R=404,L]
 
+RewriteCond %{HTTP_USER_AGENT} !MixJuice [NC]
+RewriteRule .* https://github.com/fu-sen/m15.lt [R=301,L]
+
 RewriteCond %{REQUEST_URI} /[0-9]+$
 RewriteRule .* kidspod.php [L]
 
