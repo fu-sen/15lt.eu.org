@@ -1,22 +1,22 @@
-ï£³ IchigoLatte JavaScript
-  ï¾Œï¾Ÿï¾›ï½¸ï¾ï¾—ï¾‘ ï½²ï¾ï¾—ï¾
-lash>echo MJ GET m15.lt/ï¾Œï¾Ÿï¾›ï½¸ï¾ï¾—ï¾‘> uart;cat uart > .
+ÿ IchigoLatte JavaScript
+  ÌßÛ¸Ş×Ñ ²Á×İ
+lash>echo MJ GET m15.lt/ÌßÛ¸Ş×Ñ> uart;cat uart > .
 
- ï¾Œï¾Ÿï¾›ï½¸ï¾ï¾—ï¾‘ =  ()=IchigoLatte ver.
-[balloon.js  ] ï¾Œï½³ï½¾ï¾ (0.9~)
-[balloono.js ] ï¾Œï½³ï½¾ï¾ (0.7~)
-[chrcode.js  ] ï½·ï½¬ï¾—ï½¸ï¾€ï½°ï½²ï¾ï¾—ï¾
-[chrcode16.js] ï½·ï½¬ï¾—ï½¸ï¾€ï½°ï½²ï¾ï¾—ï¾ 16ï½¼ï¾
-[chrcode20.js] ï½·ï½¬ï¾—ï½¸ï¾€ï½°ï½²ï¾ï¾—ï¾ 10ï½¼ï¾
+ ÌßÛ¸Ş×Ñ =  ()=IchigoLatte ver.
+[balloon.js  ] Ì³¾İ (0.9~)
+[balloono.js ] Ì³¾İ (0.7~)
+[chrcode.js  ] ·¬×¸À°²Á×İ
+[chrcode16.js] ·¬×¸À°²Á×İ 16¼İ
+[chrcode20.js] ·¬×¸À°²Á×İ 10¼İ
 [filesjam.js ] FILES~IchigoJam
 [filescake.js] FILES~IchigoCake
-[format.js   ] EEPROM ï¾Œï½«ï½°ï¾ï½¯ï¾€
-[kazuate.js  ] ï½¶ï½½ï¾ï½±ï¾ƒ ï½¶ï¾… ï¾Šï¾ï¾
-[kazuatee.js ] ï½¶ï½½ï¾ï½±ï¾ƒ English
-[ls.js       ] ls~ï½·ï¾‰ï½³ ï½¶ï½¸ï¾ï½®ï½³
-[maze.js     ] ï¾’ï½²ï¾› (0.9~)
-[random.js   ] ï¾—ï¾ï¾€ï¾ï¾‘ï½¶ï¾ï¾’ï¾ (0.9~)
-[randomo.js  ] ï¾—ï¾ï¾€ï¾ï¾‘ï½¶ï¾ï¾’ï¾ (0.7~)
-[terminal.js ] ï¾€ï½°ï¾ï¾…ï¾™ (1.0.0b8~)
+[format.js   ] EEPROM Ì«°Ï¯À
+[kazuate.js  ] ¶½Ş±Ã ¶Å ÊŞİ
+[kazuatee.js ] ¶½Ş±Ã English
+[ls.js       ] ls~·É³ ¶¸Á®³
+[maze.js     ] Ò²Û (0.9~)
+[random.js   ] ×İÀŞÑ¶ŞÒİ (0.9~)
+[randomo.js  ] ×İÀŞÑ¶ŞÒİ (0.7~)
+[terminal.js ] À°ĞÅÙ (1.0.0b8~)
 
 

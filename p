@@ -1,15 +1,15 @@
-ï£³ ï½²ï¾ï½ºï¾žï½¼ï¾žï½¬ï¾‘ ï¾šï½¼ï¾‹ï¾Ÿ
+ÿ ²ÁºÞ¼Þ¬Ñ Ú¼Ëß
   IchigoLatte Python
-               + MixJuice ï½ºï¾ï¾ƒï¾ï¾‚
+               + MixJuice ºÝÃÝÂ
 
-[ï¾Œï¾Ÿï¾›ï½¸ï¾žï¾—ï¾‘]
-ï¾€ï¾žï½³ï¾ï¾›ï½°ï¾„ï¾ž
- lash>echo MJ GET m15.lt/ï¾Œï¾Ÿï¾›ï½¸ï¾žï¾—ï¾‘> uart;cat uart > .
+[ÌßÛ¸Þ×Ñ]
+ÀÞ³ÝÛ°ÄÞ
+ lash>echo MJ GET m15.lt/ÌßÛ¸Þ×Ñ> uart;cat uart > .
 
- ï¾Œï¾Ÿï¾›ï½¸ï¾žï¾—ï¾‘ =  ()=Latte FORTH ver.
-[balloon.py] ï¾Œï½³ï½¾ï¾ (0.4.0D~)
+ ÌßÛ¸Þ×Ñ =  ()=Latte FORTH ver.
+[balloon.py] Ì³¾Ý (0.4.0D~)
 
-Kidspod; ï¾€ï¾žï½³ï¾ï¾›ï½°ï¾„ï¾ž
+Kidspod; ÀÞ³ÝÛ°ÄÞ
  lash>echo MJ GET m15.lt/ID> uart;cat uart > .
 
 
