@@ -1,7 +1,7 @@
 ÿ ²ÁºÞ¼Þ¬Ñ Ú¼Ëß
    IchigoLatte + MixJuice ºÝÃÝÂ
 
-lash>echo MJ GET m15.lt/ºÏÝÄÞ> uart;cat uart
+ lash>echo MJ GET m15.lt/ºÏÝÄÞ> uart;cat uart
 
 ºÏÝÄÞ =
 [j    ] JavaScript ÌßÛ¸Þ×Ñ
@@ -12,6 +12,6 @@ lash>echo MJ GET m15.lt/ºÏÝÄÞ> uart;cat uart
 [ºÏÝÄÞ] ºÏÝÄÞ Ë®³¼Þ
 
 Kidspod; ÀÞ³ÝÛ°ÄÞ
-lash>echo MJ GET m15.lt/ID> uart;cat uart > .
+ lash>echo MJ GET m15.lt/ID> uart;cat uart > .
 
 
