@@ -1,5 +1,5 @@
 // FILES from IchigoJam BASIC EEPROM | IchigoLatte 0.9
-// Copyright (c) 2016 Keiichi SHIGA (BALLOON a.k.a. Fu-sen.)
+// Copyright (c) 2016 Keiichi Shiga (BALLOON | FU-SEN)
 // The MIT License (MIT) - https://gist.github.com/fu-sen/0dc11ac111b48f7aaaf8
 
 //FILES IchigoJam BASIC

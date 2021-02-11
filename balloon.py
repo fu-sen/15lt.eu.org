@@ -1,5 +1,5 @@
-# Amabie | IchigoJam BASIC
-# Copyright (c) 2021 Keiichi SHIGA (BALLOON | FU=SEN)
+# Balloons | IchigoJam BASIC
+# Copyright (c) 2021 Keiichi Shiga (BALLOON | FU-SEN)
 # The MIT License (MIT) - https://gist.github.com/fu-sen/1d745079b391aeeaf5bd13bb85e1a0fb
 
 # Balloons
