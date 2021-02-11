@@ -1,3 +1,7 @@
+// EEPROM Formatter | IchigoLatte
+// Copyright (c) 2016 Keiichi SHIGA (BALLOON a.k.a. Fu-sen.)
+// The MIT License (MIT) - https://gist.github.com/fu-sen/0dc11ac111b48f7aaaf8
+
 //EEPROM formater
 
 var k,a,d=0,b=0,h=0,l=0,p,o=0;
