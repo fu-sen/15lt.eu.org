@@ -1,18 +1,17 @@
-ÿ ²ÁºÞ¼Þ¬Ñ Ú¼Ëß
-  IchigoLatte JavaScript
-               + MixJuice ºÝÃÝÂ
+ï£³ ï½²ï¾ï½ºï¾žï½¼ï¾žï½¬ï¾‘ ï¾šï½¼ï¾‹ï¾Ÿ
+   IchigoLatte + MixJuice ï½ºï¾ï¾ƒï¾ï¾‚
 
-[ÌßÛ¸Þ×Ñ]
-IchigoLatte ²Á×Ý
- lash>echo MJ GET m15.lt/program> uart;cat uart
-PanCake+IchigoLatte ²Á×Ý
- lash>echo MJ GET m15.lt/pprogram> uart;cat uart
-ÀÞ³ÝÛ°ÄÞ
- lash>echo MJ GET m15.lt/ÌßÛ¸Þ×Ñ> uart;cat uart > .
-Kidspod; ÀÞ³ÝÛ°ÄÞ
- lash>echo MJ GET m15.lt/ID> uart;cat uart > .
+lash>echo MJ GET m15.lt/ï½ºï¾ï¾ï¾„ï¾ž> uart;cat uart
 
-[ºÏÝÄÞ]
- lash>echo MJ GET m15.lt/ºÏÝÄÞ> uart;cat uart
+ï½ºï¾ï¾ï¾„ï¾ž =
+[j    ] JavaScript ï¾Œï¾Ÿï¾›ï½¸ï¾žï¾—ï¾‘
+[jp   ] JS+PanCake ï¾Œï¾Ÿï¾›ï½¸ï¾žï¾—ï¾‘
+[r    ] Ruby ï¾Œï¾Ÿï¾›ï½¸ï¾žï¾—ï¾‘
+[f    ] FORTH ï¾Œï¾Ÿï¾›ï½¸ï¾žï¾—ï¾‘
+[p    ] Python ï¾Œï¾Ÿï¾›ï½¸ï¾žï¾—ï¾‘
+[ï½ºï¾ï¾ï¾„ï¾ž] ï½ºï¾ï¾ï¾„ï¾ž ï¾‹ï½®ï½³ï½¼ï¾ž
+
+Kidspod; ï¾€ï¾žï½³ï¾ï¾›ï½°ï¾„ï¾ž
+lash>echo MJ GET m15.lt/ID> uart;cat uart > .
 
 

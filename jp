@@ -1,0 +1,18 @@
+ PanCake+Latte JavaScript
+  ﾌﾟﾛｸﾞﾗﾑ ｲﾁﾗﾝ
+lash>echo MJ GET m15.lt/ﾌﾟﾛｸﾞﾗﾑ> uart;cat uart > .
+
+  ﾌﾟﾛｸﾞﾗﾑ =
+[bground.js  ] ﾊｲｹｲ ﾋｮｳｼﾞ
+[balloonp.js ] ﾌｳｾﾝ
+[changepl.js ] PC-IL ｷﾘｶｴ
+[color.js    ] ｲﾛ ｲﾁﾗﾝ
+[colorst1.js ] ｲﾛ STAMP1
+[ilchrrnd.js ] Latte ｷｬﾗｸﾀ
+[newmaze1.js ] New ﾒｲﾛ2 1ｶﾞﾒﾝ
+[newmaze2.js ] New ﾒｲﾛ2 2ｶﾞﾒﾝ
+[pongfu.js   ] PONG ﾌｳ
+[sinecurve.js] ｻｲﾝ ｶｰﾌﾞ
+[sprite.js   ] ｽﾌﾟﾗｲﾄ
+
+

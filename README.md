@@ -17,40 +17,35 @@ lash より次のコマンドを入れます。（以後 lash> は入力不要�
 GET の代わりに GETS も使用可能です。（GETS は MixJuice 1.2.2 以降で有効です）
 
 ```
-lash>echo MJ GET m15.lt/> uart;cat uart   (JavaScript)
-lash>echo MJ GET m15.lt/r/> uart;cat uart (Ruby)
-lash>echo MJ GET m15.lt/f/> uart;cat uart (FORTH)
+lash>echo MJ GET m15.lt/> uart;cat uart
 ```
 
-JavaScript では、m15.lt に入っているプログラム一覧を次で表示できます。
+### プログラム
+
+プログラムは次で一覧できます。
 
 ```
-lash>echo MJ GET m15.lt/program> uart;cat uart
+lash>echo MJ GET m15.lt/j> uart;cat uart (JavaScript)
+lash>echo MJ GET m15.lt/jr> uart;cat uart (JavaScript+PanCake)
+lash>echo MJ GET m15.lt/r> uart;cat uart (Ruby)
+lash>echo MJ GET m15.lt/f> uart;cat uart (FORTH)
+lash>echo MJ GET m15.lt/p> uart;cat uart (Python)
 ```
 
-更に PanCake＋IchigoLatte は別ファイルとして program の前に p を追加しています。
+プログラムは次のコマンドでダウンロードします。\
+2021年2月11日より、`.js` `.rb` `.ft` `.py` の拡張子が付いています。
 
 ```
-lash>echo MJ GET m15.lt/pprogram> uart;cat uart
+lash>echo MJ GET m15.lt/プログラム> uart;cat uart > .
 ```
 
-プログラムは次のコマンドでダウンロードします。
+### コマンド
 
-```
-lash>echo MJ GET m15.lt/プログラム> uart;cat uart > .   (JavaScript)
-lash>echo MJ GET m15.lt/r/プログラム> uart;cat uart > . (Ruby)
-lash>echo MJ GET m15.lt/f/プログラム> uart;cat uart > . (FORTH)
-```
-
-IchigoLatte JavaScript のコマンド表示は次で表示します。
+IchigoLatte のコマンド表示は次で表示します。
 
 ```
 lash>echo MJ GET m15.lt/コマンド> uart;cat uart
 ```
-
-コマンド表示は現在 JavaScript のみです。\
-Ruby・FORTH は現在開発途中で変化する可能性があるため、\
-仕様・機能が整った頃に対応する予定でいます。
 
 ## Kidspod; ダウンロード
 
