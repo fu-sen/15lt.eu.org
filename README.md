@@ -33,7 +33,7 @@ lash>echo MJ GET m15.lt/p> uart;cat uart (Python)
 ```
 
 プログラムは次のコマンドでダウンロードします。\
-2021年2月11日より、`.js` `.rb` `.ft` `.py` の拡張子が付いています。
+2021年2月11日より、`.js` `.rb` `.fs` `.py` の拡張子が付いています。
 
 ```
 lash>echo MJ GET m15.lt/プログラム> uart;cat uart > .
