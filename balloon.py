@@ -19,4 +19,4 @@ while inkey()==0:
     lc(x,22)
     print("l")
     y=x
-
+ 
