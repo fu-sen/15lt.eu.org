@@ -7,7 +7,7 @@
  lash>echo MJ GET m15.lt/ÌßÛ¸Þ×Ñ> uart;cat uart > .
 
  ÌßÛ¸Þ×Ñ =  ()=Latte FORTH ver.
-[balloon.ft] Ì³¾Ý (0.4.0D~)
+[balloon.fs] Ì³¾Ý (0.4.0D~)
 
 Kidspod; ÀÞ³ÝÛ°ÄÞ
  lash>echo MJ GET m15.lt/ID> uart;cat uart > .
