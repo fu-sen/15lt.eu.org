@@ -74,4 +74,4 @@ lash>echo MJ GET m15.lt/ID> uart;cat uart > .
 
 **イチゴジャム レシピ** https://15jamrecipe.jimdofree.com/
 
-Powered by さくらのレンタルサーバ https://www.sakura.ne.jp/
+Powered by さくらのレンタルサーバ https://rs.sakura.ad.jp/
