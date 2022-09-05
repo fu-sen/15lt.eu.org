@@ -26,7 +26,7 @@ lash>echo MJ GET m15.lt/> uart;cat uart
 
 ```
 lash>echo MJ GET m15.lt/j> uart;cat uart (JavaScript)
-lash>echo MJ GET m15.lt/jr> uart;cat uart (JavaScript+PanCake)
+lash>echo MJ GET m15.lt/jp> uart;cat uart (JavaScript+PanCake)
 lash>echo MJ GET m15.lt/r> uart;cat uart (Ruby)
 lash>echo MJ GET m15.lt/f> uart;cat uart (FORTH)
 lash>echo MJ GET m15.lt/p> uart;cat uart (Python)
