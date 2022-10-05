@@ -4,12 +4,11 @@
  lash>echo MJ GET m15.lt/ºÏÝÄÞ> uart;cat uart
 
 ºÏÝÄÞ =
-[j    ] JavaScript ÌßÛ¸Þ×Ñ
-[jp   ] JS+PanCake ÌßÛ¸Þ×Ñ
-[r    ] Ruby ÌßÛ¸Þ×Ñ
-[f    ] FORTH ÌßÛ¸Þ×Ñ
-[p    ] Python ÌßÛ¸Þ×Ñ
-[ºÏÝÄÞ] ºÏÝÄÞ Ë®³¼Þ
+[j ] JavaScript ÌßÛ¸Þ×Ñ
+[jp] JS+PanCake ÌßÛ¸Þ×Ñ
+[r ] Ruby ÌßÛ¸Þ×Ñ
+[f ] FORTH ÌßÛ¸Þ×Ñ
+[p ] Python ÌßÛ¸Þ×Ñ
 
 Kidspod; ÀÞ³ÝÛ°ÄÞ
  lash>echo MJ GET m15.lt/ID> uart;cat uart > .

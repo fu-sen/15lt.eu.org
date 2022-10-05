@@ -39,14 +39,6 @@ lash>echo MJ GET m15.lt/p> uart;cat uart (Python)
 lash>echo MJ GET m15.lt/プログラム> uart;cat uart > .
 ```
 
-### コマンド
-
-IchigoLatte のコマンド表示は次で表示します。
-
-```
-lash>echo MJ GET m15.lt/コマンド> uart;cat uart
-```
-
 ## Kidspod; ダウンロード
 
 2020年12月12日より、Kidspod; のダウンロードに対応しました。
