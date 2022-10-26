@@ -63,4 +63,4 @@ ___
 
 **イチゴジャム レシピ** https://15jamrecipe.jimdofree.com/
 
-Powered by さくらのレンタルサーバ https://pages.github.com/
+Powered by GitHub Pages https://pages.github.com/
