@@ -1,4 +1,4 @@
-## m15.lt - IchigoLatte+MixJuice コンテンツ
+## 15lt.eu.org - IchigoLatte+MixJuice コンテンツ
 
 ![スクリーンショット](/screenshot.jpg)
 
@@ -8,8 +8,11 @@ IchigoLatte の代わりに IchigoCake JavaScript も使用可能です。\
 IchigoLatte 向けの MixJuice コンテンツは他に公開されていないため、\
 ソースを公開する事で製作を促します。
 
-2019年5月2日より m15.lt で公開しています。\
-2019年5月8日より IchigoLatte Ruby・IchigoLatte FORTH にも対応しています。
+2019年5月8日より IchigoLatte Ruby・IchigoLatte FORTH にも対応しています。\
+2022年10月26日より、ドメインを `15lt.eu.org` にして、\
+GitHub Pages を用いる事で MixJuice でダウンロードできるようにしています。
+
+___
 
 ## 使い方
 
@@ -17,19 +20,21 @@ lash より次のコマンドを入れます。（以後 lash> は入力不要�
 GET の代わりに GETS も使用可能です。（GETS は MixJuice 1.2.2 以降で有効です）
 
 ```
-lash>echo MJ GET m15.lt/> uart;cat uart
+lash>echo MJ GET 15lt.eu.org/> uart;cat uart
 ```
+
+___
 
 ### プログラム
 
 プログラムは次で一覧できます。
 
 ```
-lash>echo MJ GET m15.lt/j> uart;cat uart (JavaScript)
-lash>echo MJ GET m15.lt/jp> uart;cat uart (JavaScript+PanCake)
-lash>echo MJ GET m15.lt/r> uart;cat uart (Ruby)
-lash>echo MJ GET m15.lt/f> uart;cat uart (FORTH)
-lash>echo MJ GET m15.lt/p> uart;cat uart (Python)
+lash>echo MJ GET 15lt.eu.org/j> uart;cat uart (JavaScript)
+lash>echo MJ GET 15lt.eu.org/jp> uart;cat uart (JavaScript+PanCake)
+lash>echo MJ GET 15lt.eu.org/r> uart;cat uart (Ruby)
+lash>echo MJ GET 15lt.eu.org/f> uart;cat uart (FORTH)
+lash>echo MJ GET 15lt.eu.org/p> uart;cat uart (Python)
 ```
 
 プログラムは次のコマンドでダウンロードします。\
@@ -39,17 +44,7 @@ lash>echo MJ GET m15.lt/p> uart;cat uart (Python)
 lash>echo MJ GET m15.lt/プログラム> uart;cat uart > .
 ```
 
-## Kidspod; ダウンロード
-
-2020年12月12日より、Kidspod; のダウンロードに対応しました。
-
-```
-lash>echo MJ GET m15.lt/ID> uart;cat uart > .
-```
-
-`ID` はプログラム表示で記載されている\
- `MixJuice GET URL : kidspod.club/mj/ID` となっている数字を入力します。\
-プログラムダウンロード完了後は lash に戻ります。
+___
 
 ## IchigoLatte 向け MixJuice コンテンツ製作の注意
 
@@ -57,6 +52,8 @@ lash>echo MJ GET m15.lt/ID> uart;cat uart > .
 - lash では ↑ を押すと前のコマンドを表示できるため、同じコマンドが連続する状態では操作を軽減できます。
 - 末尾にキャラクターコード 4（16 進数 04・Ctrl+D）を入れておくと、<br />IchigoLatte は受信を終了させ、lash へ戻ります。<br />ただし、Kidspod; で使用すると LattePlayer が動作しません。<br />[Facebook グループ IchigonQuest,IchigoLatte,etc-FAN 内](https://www.facebook.com/groups/568222796651326/permalink/856839061123030/)
 - lash 動作は言語に関係なく共通です。
+
+___
 
 ## 関連リンク
 
@@ -66,4 +63,4 @@ lash>echo MJ GET m15.lt/ID> uart;cat uart > .
 
 **イチゴジャム レシピ** https://15jamrecipe.jimdofree.com/
 
-Powered by さくらのレンタルサーバ https://rs.sakura.ad.jp/
+Powered by さくらのレンタルサーバ https://pages.github.com/

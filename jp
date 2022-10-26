@@ -1,18 +1,18 @@
-ÿ PanCake+Latte JavaScript
-  ÌßÛ¸Ş×Ñ ²Á×İ
- lash>echo MJ GET m15.lt/ÌßÛ¸Ş×Ñ> uart;cat uart > .
+ï£³ PanCake+Latte JavaScript
+  ï¾Œï¾Ÿï¾›ï½¸ï¾ï¾—ï¾‘ ï½²ï¾ï¾—ï¾
+ lash>echo MJ GET 15lt.eu.org/ï¾Œï¾Ÿï¾›ï½¸ï¾ï¾—ï¾‘> uart;cat uart > .
 
-  ÌßÛ¸Ş×Ñ =
-[bground.js  ] Ê²¹² Ë®³¼Ş
-[balloonp.js ] Ì³¾İ
-[changepl.js ] PC-IL ·Ø¶´
-[color.js    ] ²Û ²Á×İ
-[colorst1.js ] ²Û STAMP1
-[ilchrrnd.js ] Latte ·¬×¸À
-[newmaze1.js ] New Ò²Û2 1¶ŞÒİ
-[newmaze2.js ] New Ò²Û2 2¶ŞÒİ
-[pongfu.js   ] PONG Ì³
-[sinecurve.js] »²İ ¶°ÌŞ
-[sprite.js   ] ½Ìß×²Ä
+  ï¾Œï¾Ÿï¾›ï½¸ï¾ï¾—ï¾‘ =
+[bground.js  ] ï¾Šï½²ï½¹ï½² ï¾‹ï½®ï½³ï½¼ï¾
+[balloonp.js ] ï¾Œï½³ï½¾ï¾
+[changepl.js ] PC-IL ï½·ï¾˜ï½¶ï½´
+[color.js    ] ï½²ï¾› ï½²ï¾ï¾—ï¾
+[colorst1.js ] ï½²ï¾› STAMP1
+[ilchrrnd.js ] Latte ï½·ï½¬ï¾—ï½¸ï¾€
+[newmaze1.js ] New ï¾’ï½²ï¾›2 1ï½¶ï¾ï¾’ï¾
+[newmaze2.js ] New ï¾’ï½²ï¾›2 2ï½¶ï¾ï¾’ï¾
+[pongfu.js   ] PONG ï¾Œï½³
+[sinecurve.js] ï½»ï½²ï¾ ï½¶ï½°ï¾Œï¾
+[sprite.js   ] ï½½ï¾Œï¾Ÿï¾—ï½²ï¾„
 
 
