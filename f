@@ -1,12 +1,12 @@
-ï£³ ï½²ï¾ï½ºï¾ï½¼ï¾ï½¬ï¾‘ ï¾šï½¼ï¾‹ï¾Ÿ
+ÿ ²ÁºŞ¼Ş¬Ñ Ú¼Ëß
   IchigoLatte FORTH
-               + MixJuice ï½ºï¾ï¾ƒï¾ï¾‚
+               + MixJuice ºİÃİÂ
 
-[ï¾Œï¾Ÿï¾›ï½¸ï¾ï¾—ï¾‘]
-ï¾€ï¾ï½³ï¾ï¾›ï½°ï¾„ï¾
- lash>echo MJ GET 15lt.eu.org/ï¾Œï¾Ÿï¾›ï½¸ï¾ï¾—ï¾‘> uart;cat uart > .
+[ÌßÛ¸Ş×Ñ]
+ÀŞ³İÛ°ÄŞ
+ lash>echo MJ GET 15lt.eu.org/ÌßÛ¸Ş×Ñ> uart;cat uart > .
 
- ï¾Œï¾Ÿï¾›ï½¸ï¾ï¾—ï¾‘ =  ()=Latte FORTH ver.
-[balloon.fs] ï¾Œï½³ï½¾ï¾ (0.4.0D~)
+ ÌßÛ¸Ş×Ñ =  ()=Latte FORTH ver.
+[balloon.fs] Ì³¾İ (0.4.0D~)
 
 

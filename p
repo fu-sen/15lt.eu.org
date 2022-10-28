@@ -1,13 +1,13 @@
- ｲﾁｺﾞｼﾞｬﾑ ﾚｼﾋﾟ
+� ���޼ެ� ڼ��
   IchigoLatte Python
-               + MixJuice ｺﾝﾃﾝﾂ
+               + MixJuice �����
 
-[ﾌﾟﾛｸﾞﾗﾑ]
-ﾀﾞｳﾝﾛｰﾄﾞ
- lash>echo MJ GET 15lt.eu.org/ﾌﾟﾛｸﾞﾗﾑ> uart;cat uart > .
+[��۸���]
+�޳�۰��
+ lash>echo MJ GET 15lt.eu.org/��۸���> uart;cat uart > .
 
- ﾌﾟﾛｸﾞﾗﾑ =  ()=Latte FORTH ver.
-[balloon.py] ﾌｳｾﾝ (0.3.2~)
-[chrcode.py] ｷｬﾗｸﾀｰｺｰﾄﾞｲﾁﾗﾝ (0.3.2~)
+ ��۸��� =  ()=Latte FORTH ver.
+[balloon.py] ̳�� (0.3.2~)
+[chrcode.py] ��׸�����޲��� (0.3.2~)
 
 
