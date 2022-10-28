@@ -17,7 +17,7 @@ ___
 ## 使い方
 
 lash より次のコマンドを入れます。（以後 lash> は入力不要です）\
-GET の代わりに GETS も使用可能です。（GETS は MixJuice 1.2.2 以降で有効です）
+GET の代わりに GETS も使用可能です。
 
 ```
 lash>echo MJ GET 15lt.eu.org/> uart;cat uart
