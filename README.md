@@ -41,7 +41,7 @@ lash>echo MJ GET 15lt.eu.org/p> uart;cat uart (Python)
 2021年2月11日より、`.js` `.rb` `.fs` `.py` の拡張子が付いています。
 
 ```
-lash>echo MJ GET m15.lt/プログラム> uart;cat uart > .
+lash>echo MJ GET 15lt.eu.org/プログラム> uart;cat uart > .
 ```
 
 ___
