@@ -1,4 +1,4 @@
-ÿ IchigoLatte JavaScript
+IchigoLatte JavaScript
   ÌßÛ¸Þ×Ñ ²Á×Ý
  lash>echo MJ GET 15lt.eu.org/ÌßÛ¸Þ×Ñ> uart;cat uart > .
 

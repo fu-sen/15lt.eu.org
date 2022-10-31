@@ -1,4 +1,4 @@
-ÿ ²ÁºÞ¼Þ¬Ñ Ú¼Ëß
+²ÁºÞ¼Þ¬Ñ Ú¼Ëß
   IchigoLatte FORTH
                + MixJuice ºÝÃÝÂ
 
