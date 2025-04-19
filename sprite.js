@@ -1,5 +1,5 @@
 // Output of sprite | PanCake / IchigoLatte
-// Copyright (c) 2019 Keiichi Shiga (BALLOON | FU-SEN)
+// Copyright (c) 2019 BALLOON | FU-SEN
 // The MIT License (MIT) - https://mit.balloon.net.eu.org/#2019
 
 //PanCake Output Sprite

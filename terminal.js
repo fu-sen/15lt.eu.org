@@ -1,5 +1,5 @@
 // Terminal | IchigoLatte 1.0.0b8+
-// Copyright (c) 2018 Keiichi Shiga (BALLOON | FU-SEN)
+// Copyright (c) 2018 BALLOON | FU-SEN
 // The MIT License (MIT) - https://mit.balloon.net.eu.org/#2018
 
 //Terminal

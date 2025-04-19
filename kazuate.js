@@ -1,5 +1,5 @@
 // ¶½Þ±Ã | IchigoLatte
-// Copyright (c) 2016 Keiichi Shiga (BALLOON | FU-SEN)
+// Copyright (c) 2016 BALLOON | FU-SEN
 // The MIT License (MIT) - https://mit.balloon.net.eu.org/#2016
 
 //¶½Þ±Ã
